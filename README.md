@@ -7,6 +7,7 @@ This project provides a comprehensive, data-driven analysis to guide Zomato’s 
 # Key Objectives
 This project uses data-driven insights to help Zomato understand:
 •	Customer Preferences: Which cuisines and food types are most popular among consumers?
+
 •	Market Gaps: Where is there high demand but limited restaurant availability?
 •	Data-Driven Decisions: By analyzing customer behavior, market trends, and competition, Zomato can strategically open new restaurants where they’re most likely to succeed.
 •	Maximizing ROI: Pinpointing the right location, cuisine, and restaurant concept helps maximize returns and reduce risks by matching the right food with the right audience in the right place.
