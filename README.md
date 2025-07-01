@@ -4,6 +4,9 @@ Analyze Zomato’s restaurant data to identify optimal locations for expansion b
 # Overview
 This project provides a comprehensive, data-driven analysis to guide Zomato’s strategic expansion into international markets. By examining critical metrics such as customer preferences, restaurant ratings, average pricing, and service offerings, the analysis pinpoints high-potential regions for growth and uncovers opportunities for operational improvement. These insights are designed to enable informed decisions on market entry, investment priorities, and enhancements to the customer experience.
 
+![Dashboard Image](https://github.com/user-attachments/assets/a0a3d0e1-e5eb-4cfb-8834-6742a804a168)
+
+
 # Key Objectives
 **This project uses data-driven insights to help Zomato understand:**
 
