@@ -23,35 +23,35 @@ This project provides a comprehensive, data-driven analysis to guide Zomato’s 
 
 •	Cities Covered: 141
 
-•	Average Cost for Two: ₹856
+•	Average Cost for Two: ₹853
 
 •	Average Rating: 2.89
 
-•	Total Votes Collected: 1,498,645
+•	Average Votes: 157
 
-•	Unique Cuisines: 1,825
+•	Unique Cuisines: 1,826
 
 # Project Assets
 
-•	Insights Deck – Zomato_Insights_Presentation.pptx
+•	Insights Deck – Zomato_Restaurants_Analysis_PPT-Pack.pptx
 
 •	Highlights key findings, trends, and strategic recommendations.
 
-•	Dashboard Snapshot – Zomato_Dashboard_View.jpg
+•	Dashboard Snapshot – Dashboar Imgae.jpg
 
 •	Visual preview of the interactive dashboard and core metrics.
 
-•	Interactive Workbook – Zomato_Analytics_Dashboard.xlsx
+•	Interactive Workbook – Zomato_Restaurants_Analysis_Dashboard.xlsx
 
 •	Includes raw data, pivot tables, and filters for in-depth exploration.
 
-•	Methodology Report – Zomato_Methodology_Report.docx
+•	Methodology Report – Zomato_Restaurants_Analysis_Tasks.docx
 
 •	Outlines the analytical approach, tools, and techniques used.
 
 # Summary of Insights
 
-•	Top Markets: Qatar, Sri Lanka, Singapore, and Canada have strong ratings with low competition—ideal for new market entry.
+•	Top Markets: Australia, Philippines, Qatar, Sri Lanka, Singapore, and Canada have strong ratings with low competition—ideal for new market entry.
 
 •	High-Rated Countries: Philippines, Indonesia, Turkey, and New Zealand excel in customer satisfaction.
 
