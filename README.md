@@ -1,4 +1,4 @@
-#🍽️ Zomato Restaurant Expansion Analysis
+# 🍽️ Zomato Restaurant Analysis
 
 ## Objective
 
