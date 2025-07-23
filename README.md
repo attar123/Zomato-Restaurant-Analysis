@@ -102,7 +102,7 @@ For further information, collaboration opportunities, or questions, feel free to
 
 **Name**: Mudassir Attar
 **Email**: mhsattar313@gmail.com 
-**LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/mudassir-attar/)  
-**GitHub**: [github.com/your-profile](https://github.com/attar123)
+**LinkedIn**: [linkedin.com/in/Mudassir_attar](https://www.linkedin.com/in/mudassir-attar/)  
+**GitHub**: [github.com/attar123](https://github.com/attar123)
 
 ---
