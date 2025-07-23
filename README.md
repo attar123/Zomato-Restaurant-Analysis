@@ -1,13 +1,13 @@
 # Zomato-Restaurant-Analysis
 Analyze Zomato’s restaurant data to identify optimal locations for expansion by focusing on factors like cuisine popularity, restaurant ratings and customer preferences and deliver data-driven insights to support strategic decisions.
 
-# Overview
+## Overview
 This project provides a comprehensive, data-driven analysis to guide Zomato’s strategic expansion into international markets. By examining critical metrics such as customer preferences, restaurant ratings, average pricing, and service offerings, the analysis pinpoints high-potential regions for growth and uncovers opportunities for operational improvement. These insights are designed to enable informed decisions on market entry, investment priorities, and enhancements to the customer experience.
 
 ![Dashboard Image](https://github.com/user-attachments/assets/a0a3d0e1-e5eb-4cfb-8834-6742a804a168)
 
 
-# Key Objectives
+## Key Objectives
 **This project uses data-driven insights to help Zomato understand:**
 
 •	**Customer Preferences:** Which cuisines and food types are most popular among consumers?
@@ -18,7 +18,7 @@ This project provides a comprehensive, data-driven analysis to guide Zomato’s 
 
 •	**Maximizing ROI:** Pinpointing the right location, cuisine, and restaurant concept helps maximize returns and reduce risks by matching the right food with the right audience in the right place.
 
-# Dataset Summary
+## Dataset Summary
 
 •	Total Restaurants: 9,551
 
@@ -34,7 +34,7 @@ This project provides a comprehensive, data-driven analysis to guide Zomato’s 
 
 •	Unique Cuisines: 1,826
 
-# Project Assets
+## Project Assets
 
 •	Insights Deck – Zomato_Restaurants_Analysis_PPT-Pack.pptx
 
@@ -52,7 +52,7 @@ This project provides a comprehensive, data-driven analysis to guide Zomato’s 
 
 •	Outlines the analytical approach, tools, and techniques used.
 
-# Summary of Insights
+## Summary of Insights
 
 •	Top Markets: Australia, Philippines, Qatar, Sri Lanka, Singapore, and Canada have strong ratings with low competition—ideal for new market entry.
 
@@ -64,7 +64,7 @@ This project provides a comprehensive, data-driven analysis to guide Zomato’s 
 
 •	Cost Insight: India remains the most affordable; Singapore has the highest average cost for dining.
 
-# Key Takeaways:
+## Key Takeaways:
 
 •	Market Insights: Pinpointed high-potential regions for expansion based on demand and competition.
 
@@ -74,7 +74,7 @@ This project provides a comprehensive, data-driven analysis to guide Zomato’s 
 
 •	Data-Driven Expansion: Leveraged financial and consumer trends to identify strategic growth opportunities.
 
-# How to Use
+## How to Use
 
 •	Open the Presentation: Start by opening Zomato_Restaurants_Analysis_PPT-Pack.pptx for a high-level summary of key findings, visual insights, and strategic recommendations.
 
