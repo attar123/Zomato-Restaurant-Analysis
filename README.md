@@ -1,83 +1,108 @@
-# Zomato-Restaurant-Analysis
-Analyze Zomato’s restaurant data to identify optimal locations for expansion by focusing on factors like cuisine popularity, restaurant ratings and customer preferences and deliver data-driven insights to support strategic decisions.
+# Zomato Restaurant Expansion Analysis
 
-## Overview
-This project provides a comprehensive, data-driven analysis to guide Zomato’s strategic expansion into international markets. By examining critical metrics such as customer preferences, restaurant ratings, average pricing, and service offerings, the analysis pinpoints high-potential regions for growth and uncovers opportunities for operational improvement. These insights are designed to enable informed decisions on market entry, investment priorities, and enhancements to the customer experience.
+## Objective
 
-![Dashboard Image](https://github.com/user-attachments/assets/a0a3d0e1-e5eb-4cfb-8834-6742a804a168)
+This project delivers a comprehensive, data-driven analysis of Zomato’s restaurant dataset to support strategic decision-making for international expansion. It focuses on identifying optimal locations for growth by evaluating key factors such as cuisine popularity, customer preferences, restaurant ratings, service availability, and market competitiveness.
 
+---
+
+## Project Overview
+
+The primary goal of this analysis is to provide actionable insights that enable Zomato to:
+
+- Identify high-potential markets for restaurant expansion  
+- Understand customer behavior and service expectations  
+- Evaluate cuisine trends and pricing benchmarks across regions  
+- Optimize return on investment through targeted market entry  
+
+The insights generated offer strategic recommendations to guide market selection, service offerings, and customer engagement strategies.
+
+---
+
+![Dashboard Preview](https://github.com/user-attachments/assets/a0a3d0e1-e5eb-4cfb-8834-6742a804a168)
+
+---
 
 ## Key Objectives
-**This project uses data-driven insights to help Zomato understand:**
 
-•	**Customer Preferences:** Which cuisines and food types are most popular among consumers?
+- **Customer Preferences**: Identify the most popular cuisines and service types across countries.  
+- **Market Gaps**: Detect underserved regions with high demand but limited restaurant options.  
+- **Strategic Decision-Making**: Utilize data to prioritize cities and countries with the highest likelihood of success.  
+- **Return on Investment**: Align cuisine offerings and price points with customer demand to maximize profitability and reduce risk.
 
-•	**Market Gaps:** Where is there high demand but limited restaurant availability?
-
-•	**Data-Driven Decisions:** By analyzing customer behavior, market trends, and competition, Zomato can strategically open new restaurants where they’re most likely to succeed.
-
-•	**Maximizing ROI:** Pinpointing the right location, cuisine, and restaurant concept helps maximize returns and reduce risks by matching the right food with the right audience in the right place.
+---
 
 ## Dataset Summary
 
-•	Total Restaurants: 9,551
+- **Total Restaurants Analyzed**: 9,551  
+- **Countries Covered**: 15  
+- **Cities Covered**: 141  
+- **Average Cost for Two**: ₹853  
+- **Average Rating**: 2.89  
+- **Average Votes per Restaurant**: 157  
+- **Unique Cuisines**: 1,826  
 
-•	Countries Covered: 15
+---
 
-•	Cities Covered: 141
+## Assets Included
 
-•	Average Cost for Two: ₹853
+| File Name                                          | Description                                                                 |
+|---------------------------------------------------|-----------------------------------------------------------------------------|
+| `Zomato_Restaurants_Analysis_PPT-Pack.pptx`       | Executive presentation deck summarizing key insights and strategic findings |
+| `Zomato_Restaurants_Analysis_Dashboard.xlsx`      | Interactive dashboard for exploring trends, filters, and KPIs               |
+| `Dashboard_Image.jpg`                             | Static preview of the Power BI dashboard interface                          |
+| `Zomato_Restaurants_Analysis_Tasks.docx`          | Methodology report outlining tools, techniques, and analytical approach     |
 
-•	Average Rating: 2.89
-
-•	Average Votes: 157
-
-•	Unique Cuisines: 1,826
-
-## Project Assets
-
-•	Insights Deck – Zomato_Restaurants_Analysis_PPT-Pack.pptx
-
-•	Highlights key findings, trends, and strategic recommendations.
-
-•	Dashboard Snapshot – Dashboar Imgae.jpg
-
-•	Visual preview of the interactive dashboard and core metrics.
-
-•	Interactive Workbook – Zomato_Restaurants_Analysis_Dashboard.xlsx
-
-•	Includes raw data, pivot tables, and filters for in-depth exploration.
-
-•	Methodology Report – Zomato_Restaurants_Analysis_Tasks.docx
-
-•	Outlines the analytical approach, tools, and techniques used.
+---
 
 ## Summary of Insights
 
-•	Top Markets: Australia, Philippines, Qatar, Sri Lanka, Singapore, and Canada have strong ratings with low competition—ideal for new market entry.
+- **High-Potential Markets**: Australia, Philippines, Qatar, Sri Lanka, Singapore, and Canada exhibit favorable conditions for expansion—high ratings, low competition.  
+- **Customer Satisfaction Leaders**: Countries such as the Philippines, Indonesia, Turkey, and New Zealand show consistently high customer ratings.  
+- **Top-Rated Cuisines**: American, Japanese, BBQ, and Seafood cuisines rank highest in popularity and satisfaction.  
+- **Service Influence**: Restaurants offering table reservations and online delivery consistently perform better in ratings.  
+- **Cost Distribution**: India offers the lowest average cost per meal; Singapore records the highest.  
 
-•	High-Rated Countries: Philippines, Indonesia, Turkey, and New Zealand excel in customer satisfaction.
+---
 
-•	Popular Cuisines: American, Japanese, BBQ, and Seafood receive consistently high ratings.
+## Key Takeaways
 
-•	Service Impact: Restaurants offering table booking and online delivery tend to have better ratings.
+- **Market Opportunity**: Identified countries with strong demand signals and underrepresentation of dining options.  
+- **Behavioral Insights**: Demonstrated the impact of pricing, service features, and cuisine type on consumer preferences.  
+- **Competitive Landscape**: Compared regional restaurant density, ratings, and vote volumes to assess competitive intensity.  
+- **Strategic Alignment**: Offered clear, evidence-based recommendations for future expansion targeting.
 
-•	Cost Insight: India remains the most affordable; Singapore has the highest average cost for dining.
+---
 
-## Key Takeaways:
+## How to Use This Project
 
-•	Market Insights: Pinpointed high-potential regions for expansion based on demand and competition.
+1. **Presentation Deck**  
+   Review `Zomato_Restaurants_Analysis_PPT-Pack.pptx` for a high-level overview of key findings and strategic implications.
 
-•	Customer Behavior: Examined how pricing, delivery, and table booking affect success.
+2. **Interactive Dashboard**  
+   Explore `Zomato_Restaurants_Analysis_Dashboard.xlsx` to analyze restaurant trends across filters like country, cuisine, pricing, and ratings.
 
-•	Competitor Analysis: Evaluated trends, pricing, and feedback for competitive positioning.
+3. **Methodology Report**  
+   Refer to `Zomato_Restaurants_Analysis_Tasks.docx` for a detailed explanation of the data pipeline, analytical framework, and tools used.
 
-•	Data-Driven Expansion: Leveraged financial and consumer trends to identify strategic growth opportunities.
+---
 
-## How to Use
+## Tools & Technologies
 
-•	Open the Presentation: Start by opening Zomato_Restaurants_Analysis_PPT-Pack.pptx for a high-level summary of key findings, visual insights, and strategic recommendations.
+- **Power BI** – Data visualization and interactive reporting  
+- **Microsoft Excel** – Data preprocessing, analysis, and dashboard creation  
+- **Pivot Tables & Slicers** – For in-depth filtering and segmentation  
+- **Data Cleaning Techniques** – Standardization, deduplication, and missing value handling  
 
-•	Explore the Dashboard: Launch Zomato_Restaurants_Analysis_Dashboard.xlsx to interact with the dynamic dashboard. Apply filters to analyze data by year and country.
+---
 
-•	Analyze Restaurant Trends: Use the slicers to drill down into metrics such as cuisine types, ratings, pricing, and availability to gain deeper insights into restaurant performance across various regions.
+## Contact
+
+For further information, collaboration opportunities, or questions, feel free to connect:
+
+**Name**: Mudassir Attar
+**Email**: mhsattar313@gmail.com 
+**LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/mudassir-attar/)  
+**GitHub**: [github.com/your-profile](https://github.com/attar123)
+
+---
