@@ -101,8 +101,8 @@ The insights generated offer strategic recommendations to guide market selection
 For further information, collaboration opportunities, or questions, feel free to connect:
 
 **Name**: Mudassir Attar<br>
-**Email**: mhsattar313@gmail.com 
-**LinkedIn**: [linkedin.com/in/mudassir-attar](https://www.linkedin.com/in/mudassir-attar/)  
-**GitHub**: [github.com/attar123](https://github.com/attar123)
+**Email**: mhsattar313@gmail.com <br>
+**LinkedIn**: [linkedin.com/in/mudassir-attar](https://www.linkedin.com/in/mudassir-attar/)  <br>
+**GitHub**: [github.com/attar123](https://github.com/attar123)<br>
 
 ---
